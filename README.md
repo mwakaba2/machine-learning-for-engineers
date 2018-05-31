@@ -8,6 +8,12 @@
 
 [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 
+[Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
+[Scikit-Learn: Supervised Learning](http://scikit-learn.org/stable/supervised_learning.html)
+
+[Scikit-Learn: Clustering](http://scikit-learn.org/stable/modules/clustering.html)
+
 #### Books
 [Machine Learning Yearning](http://www.mlyearning.org/)
 
@@ -27,6 +33,14 @@
 
 [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 
+[A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
+[Deep Learning for NLP with PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
+
+
+#### Books
+
+[Neural Networks for Natural Language Processing](https://www.goodreads.com/book/show/34931897-neural-network-methods-for-natural-language-processing)
 
 
 ### Machine Learning for Javascript Engineers
@@ -45,16 +59,4 @@
 ---------------------------------
 #### MOOCS/Tutorials
 [Deep Learning for Coders](http://course.fast.ai/)
-
-
-
-
-
-
-
-
-
-
-
-
 
