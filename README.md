@@ -39,7 +39,6 @@
 
 
 #### Books
-
 [Neural Networks for Natural Language Processing](https://www.goodreads.com/book/show/34931897-neural-network-methods-for-natural-language-processing)
 
 
