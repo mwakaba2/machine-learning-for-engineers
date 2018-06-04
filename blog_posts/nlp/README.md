@@ -21,3 +21,6 @@
 
 ### 2017 Trends
 * [Deep Learning for Natural Language Processing (NLP): Advancements & Trends](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI)
+
+### Recurrent Neural Networks
+* [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
