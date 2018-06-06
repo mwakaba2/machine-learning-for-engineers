@@ -24,3 +24,6 @@
 
 ### Recurrent Neural Networks
 * [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+### Data Augmentation
+* [Shuffling Paragraphs: Using Data Augmentation in NLP to Increase Accuracy](https://medium.com/bcggamma/shuffling-paragraphs-using-data-augmentation-in-nlp-to-increase-accuracy-477388746bd9)
