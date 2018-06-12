@@ -40,6 +40,7 @@
 
 #### Books
 [Neural Networks for Natural Language Processing](https://www.goodreads.com/book/show/34931897-neural-network-methods-for-natural-language-processing)
+[NLP Notes](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 
 ### Machine Learning for Javascript Engineers

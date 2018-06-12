@@ -7,6 +7,9 @@
 ### EMNLP-2017 Conference Highlights
 * [Highlights of EMNLP 2017: Exciting Datasets, Return of the Clusters, and More!](http://blog.aylien.com/highlights-emnlp-2017-exciting-datasets-return-clusters/)
 
+### EAMT 2018 Conference Highlights
+* [Notes on EAMT 2018](http://noecasas.com/post/eamt2018/)
+
 ### Sebastian Ruder's Blog posts
 * [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html)
 * [Optimization for Deep Learning Highlights in 2017](http://ruder.io/deep-learning-optimization-2017/index.html)
@@ -27,3 +30,9 @@
 
 ### Data Augmentation
 * [Shuffling Paragraphs: Using Data Augmentation in NLP to Increase Accuracy](https://medium.com/bcggamma/shuffling-paragraphs-using-data-augmentation-in-nlp-to-increase-accuracy-477388746bd9)
+
+### Explainable AI
+* [Explain yourself, machine. Producing simple text descriptions for AI interpretability](https://lukeoakdenrayner.wordpress.com/2018/06/05/explain-yourself-machine-producing-simple-text-descriptions-for-ai-interpretability/)
+
+### Scalable ML Architecture Examples
+* [The Scalable Neural Architecture behind Alexa’s Ability to Select Skills](https://developer.amazon.com/blogs/alexa/post/4e6db03f-6048-4b62-ba4b-6544da9ac440/the-scalable-neural-architecture-behind-alexa-s-ability-to-arbitrate-skills)
